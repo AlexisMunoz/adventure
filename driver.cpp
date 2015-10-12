@@ -18,11 +18,8 @@ int numberOfPeople();
 
 int main ()
 {
-	int people = numberOfPeople();
-	int discountPrice;
-	discountPrice = discount(people);
-	
-	cout << scuba( people) << endl;
+
+
 
     return 0;
 }
